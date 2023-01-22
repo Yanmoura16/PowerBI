@@ -1,0 +1,24 @@
+P1  -  Qual o valor total vendido? 
+R:  Respondida com um Cartão mostrando total das vendas
+
+
+P2 -  Quantas vendas foram realizadas por categoria de produto?
+R:  Respondida com um Grafico de pizza - Com a contagem de cada ID de pedido nas categorias
+
+
+
+P3 - Quantas vendas foram realizadas por país considerando a prioridade de entrega?
+R:  Respondida com um Grafico de barras - Com a contagem de cada ID por País e Categoria
+
+
+
+P4 - Qual foi a média de desconto nas vendas por subcategoria de produto?
+R:  Respondida com um Grafico de barras -  Utilizando o Campo Subcategoria e a Media do campo Desconto 
+
+
+P5 - Quais países tiveram a maior média de valor de venda? Demonstre em um mapa.
+R:  Respondida com Grafico Mapa - Com a Media Total de Vendas acima de 250
+
+
+
+
