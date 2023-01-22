@@ -1,0 +1,9 @@
+P1 - Faturamento 
+P2 - Filtrar por marca
+P3 - Visualizar os produtos disponiveis
+P4 - Genero que mais compra na loja
+P5 - Media de pets dos clientes 
+P6 - Nova loja
+
+
+Lookupvalue(Valor a ser procurado,ID/referencia do valor, Referencia na tabela )
